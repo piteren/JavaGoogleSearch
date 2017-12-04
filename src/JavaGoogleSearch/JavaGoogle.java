@@ -32,6 +32,8 @@ public class JavaGoogle {
 
             System.out.println("Title: " + title);
             System.out.println("URL: " + url);
+            
+            //tu dodaje testowy komentarz
         }
     }
 }
